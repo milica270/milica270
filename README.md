@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milica270,
+- 👋 Hi, I’m @milica270
 
 <!---
 milica270/milica270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
